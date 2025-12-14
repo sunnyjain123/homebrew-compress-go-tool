@@ -1,4 +1,4 @@
-class compress-go-tool < Formula
+class Compressgotool < Formula
   desc "Simple file compression CLI written in Go"
   homepage "https://github.com/sunnyjain123/compressor-tool"
   url "https://github.com/sunnyjain123/compressor-tool/releases/download/v1.0.0/compress-go-tool-darwin-universal.tar.gz"
